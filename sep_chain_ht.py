@@ -4,6 +4,7 @@ class MyHashTable:
         self.hash_table = [[] for _ in range(table_size)]
         self.num_items = 0
         self.num_collisions = 0
-        
+
+
         
 
